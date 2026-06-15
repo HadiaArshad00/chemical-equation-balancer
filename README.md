@@ -6,5 +6,5 @@ A Python script that checks if a simple chemical equation is balanced by countin
 - Input: Elements and their counts on reactant and product sides
 - Output: Whether the equation is balanced or not
 
-## 🛠️ Language
+##  Language
 - Python 3
